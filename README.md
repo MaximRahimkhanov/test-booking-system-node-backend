@@ -41,3 +41,7 @@ REST API для системи бронювання зустрічей між к
 > а не фізичне видалення з бази даних.
 > Це дозволяє зберігати історію бронювань.
 ```
+## Deployment
+
+Backend deployed on Render:
+https://test-booking-system-node-backend.onrender.com
